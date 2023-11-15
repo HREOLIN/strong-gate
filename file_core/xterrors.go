@@ -1,4 +1,4 @@
-package quiche
+package file_core
 
 import (
 	"errors"
